@@ -1,3 +1,5 @@
+![Blue](https://github.com/makromusic/flutter_tutorials/assets/47090675/6d0cc8f7-de4a-4f87-b66c-42455b2eb2eb)
+
 A simple Flutter button widget with a makromusic logo!
 
 This package is intended solely for educational purposes and should not be used in production environments. 
