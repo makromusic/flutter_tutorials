@@ -1,7 +1,8 @@
 name: makromusic_button
-description: "A new Flutter package project."
+description: "A custom button with makromusic Logo!"
 version: 0.0.1
-homepage:
+homepage: https://makromusic.com
+repository: https://github.com/makromusic/flutter_tutorials/tree/main/makromusic_button
 
 environment:
   sdk: '>=3.2.5 <4.0.0'
