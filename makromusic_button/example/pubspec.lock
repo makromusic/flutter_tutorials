@@ -86,9 +86,11 @@ packages:
   makromusic_button:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      path: makromusic_button
+      ref: cf8d3a66a3b506b07d0dbeb3e8fe45979912643c
+      resolved-ref: cf8d3a66a3b506b07d0dbeb3e8fe45979912643c
+      url: "https://github.com/makromusic/flutter_tutorials"
+    source: git
     version: "0.0.1"
   matcher:
     dependency: transitive

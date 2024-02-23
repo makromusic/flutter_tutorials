@@ -12,7 +12,10 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   makromusic_button: 
-    path: ../
+    git:
+      url: https://github.com/makromusic/flutter_tutorials
+      ref: cf8d3a66a3b506b07d0dbeb3e8fe45979912643c
+      path: makromusic_button
 
 dev_dependencies:
   flutter_test:
